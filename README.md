@@ -5,20 +5,12 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Start development server
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+npm run electron:serve
 ```
 
-### Lints and fixes files
+### Build project to production
 ```
-yarn lint
+npm run electron:build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
