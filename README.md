@@ -1,4 +1,6 @@
-# client
+# Trabalho de Engenharia Software
+
+Desenvolvido apenas para a disciplina de engenharia de software.
 
 ## Project setup
 ```
