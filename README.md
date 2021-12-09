@@ -1,6 +1,6 @@
-# Trabalho de Engenharia Software
+# Somar - Trabalho de Engenharia Software
 
-Desenvolvido apenas para a disciplina de engenharia de software.
+Jogo desenvolvido apenas para a disciplina de engenharia de software.
 
 ## Project setup
 ```
